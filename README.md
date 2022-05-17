@@ -6,4 +6,4 @@
 # Редактирование карточки
 ![alt](https://github.com/aleeeeeexx/5laba/blob/main/imgs/izmKartochka.png)
 # Главная сайта 
-![alt](https://github.com/aleeeeeexx/5laba/blob/main/imgs/izmKartochka.png)
+![alt](https://github.com/aleeeeeexx/5laba/blob/main/imgs/shema.png)
